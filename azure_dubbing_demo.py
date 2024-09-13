@@ -3,11 +3,11 @@ import azure.cognitiveservices.speech as speechsdk
 import requests, uuid, json
 
 # Speech Service Resource
-SPEECH_KEY = 'db22dd2d538c45908dd7914ebc3b58e6'
+SPEECH_KEY = 'PUT YOUR KEY HERE'
 SPEECH_REGION = 'eastus'
 
 # Translator Resource
-key = "774b448f30774e91af79fd76b8c1b0d4"
+key = "PUT YOUR KEY HERE"
 endpoint = "https://api.cognitive.microsofttranslator.com"
 location = 'eastus'
 
