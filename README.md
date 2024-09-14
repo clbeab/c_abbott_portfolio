@@ -9,7 +9,7 @@ Potential appliactions for this project are remote scientific discovery.  As an 
 
 Result:  Actually quite promising results given the lack of time and resources.  The GNNS were effectively useless as simulators but enough of the interactions were learned in the parameters that the analyzing network was over 90% accurate in distinguishing the type of interaction.
 
-Inf the folder is an example of one of the Graph Neural Networks trained on a gas diffusion simulation, the neural network that was used to analyze the learned parameters of the GNN, and the final project write up.
+In the folder is an example of one of the Graph Neural Networks trained on a gas diffusion simulation, the neural network that was used to analyze the learned parameters of the GNN, and the final project write up.
 
 ### RETRIEVAL AUGMENTED GENERATION RESEARCH CHAT ###
 
