@@ -8,19 +8,24 @@ This project was part of a graduate-level deep learning class. Graph Neural Netw
 ### Potential Application:
 Remote scientific discovery. For instance, a rover on a distant planet could film particles as they are disturbed, and training a GNN on this data could reveal properties like magnetism.
 
-Result: Promising findings despite limited training. While the GNNs were not ideal simulators due to restricted training cycles, they learned enough interactions that an analyzing network achieved over 90% accuracy in identifying interaction types.
+### Result: 
+Promising findings despite limited training. While the GNNs were not ideal simulators due to restricted training cycles, they learned enough interactions that an analyzing network achieved over 90% accuracy in identifying interaction types.
 
-Included in Folder: Examples of the trained GNNs on gas diffusion simulations, the neural network used for parameter analysis, and the final project write-up.
+### Included in Folder: 
+Examples of the trained GNNs on gas diffusion simulations, the neural network used for parameter analysis, and the final project write-up.
 
-### RETRIEVAL AUGMENTED GENERATION RESEARCH CHAT ###
+# RETRIEVAL AUGMENTED GENERATION RESEARCH CHAT
 
 This project was a proof of concept for a potential professional engagement. The goal was to create a chat system that could reference scientific papers during conversations. All research papers in the Physics section of ArXiv were downloaded, chunked, encoded, and stored in a Milvus vector database. Users could then interact with a Large Language Model (LLM), specifically LLaMA 3, and the system would retrieve relevant segments of research papers to provide context for the model’s responses.
 
-Technology: The project was initially set up using the Nvidia DGX cloud, with plans for local deployment in production.
+### Technology: 
+The project was initially set up using the Nvidia DGX cloud, with plans for local deployment in production.
 
-Result: Successfully demonstrated a retrieval-augmented generation process that could assist researchers in navigating and summarizing vast scientific literature.
+### Result: 
+Successfully demonstrated a retrieval-augmented generation process that could assist researchers in navigating and summarizing vast scientific literature.
 
-Potential Next Steps: Integration with a more diverse set of databases and refinement for real-world use cases in scientific research.
+### Potential Next Steps: 
+Integration with a more diverse set of databases and refinement for real-world use cases in scientific research.
 
 ### TASTYTRADE SPX OPEN BUTTERFLY ###
 
