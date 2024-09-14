@@ -5,7 +5,7 @@ Thank you for visiting my portfolio.  Below is a description of each of the samp
 
 This project was part of a graduate-level deep learning class. Graph Neural Networks (GNNs) are increasingly effective at modeling real-world physical dynamics. Following research from Google's DeepMind group, I trained GNNs to simulate various system dynamics. I then experimented with different neural network designs to analyze the learned parameters and extract information about the dynamics.
 
-###Potential Application###: Remote scientific discovery. For instance, a rover on a distant planet could film particles as they are disturbed, and training a GNN on this data could reveal properties like magnetism.
+### Potential Application ###: Remote scientific discovery. For instance, a rover on a distant planet could film particles as they are disturbed, and training a GNN on this data could reveal properties like magnetism.
 
 Result: Promising findings despite limited training. While the GNNs were not ideal simulators due to restricted training cycles, they learned enough interactions that an analyzing network achieved over 90% accuracy in identifying interaction types.
 
