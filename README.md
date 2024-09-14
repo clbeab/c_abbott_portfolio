@@ -1,7 +1,7 @@
 # c_abbott_portfolio
 Thank you for visiting my portfolio.  Below is a description of each of the sample projects in this repository.
 
-### GNN PHYSICAL DYNAMICS DISCOVERY ###
+# GNN PHYSICAL DYNAMICS DISCOVERY
 
 This project was part of a graduate-level deep learning class. Graph Neural Networks (GNNs) are increasingly effective at modeling real-world physical dynamics. Following research from Google's DeepMind group, I trained GNNs to simulate various system dynamics. I then experimented with different neural network designs to analyze the learned parameters and extract information about the dynamics.
 
