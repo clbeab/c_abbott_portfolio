@@ -1,4 +1,4 @@
-# c_abbott_portfolio
+# Cliff Abbott's Project Portfolio
 Thank you for visiting my portfolio.  Below is a description of each of the sample projects in this repository.
 
 # GNN PHYSICAL DYNAMICS DISCOVERY
